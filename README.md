@@ -46,10 +46,15 @@ This section serves as the foundation of our repository, encompassing the core p
 - **Descriptive Statistics**: Learn about techniques for summarizing and describing data.
 - **Inferential Statistics**: Explore how to make predictions and inferences from data samples.
 - **Probability Theory**: Delve into the fundamentals of probability and its applications in statistics.
-- **Data Collection and Sampling**: Discover methods for collecting and choosing representative samples.
 - **Hypothesis Testing and Confidence Intervals**: Learn about the formulation of hypotheses and the calculation of confidence intervals.
 
 Whether you're starting your journey in statistics or brushing up on key concepts, this section provides a comprehensive overview of the field.
+
+- **Probability and Statistics: The Science of Uncertainty**: This comprehensive resource provides insights into the world of probability and statistics. It covers a wide range of topics and applications, making it suitable for both beginners and those seeking advanced knowledge. Access the book [here](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf).
+
+- **Discrete Mathematics and Probability Theory**: This resource offers a comprehensive overview of discrete mathematics and probability theory. It covers fundamental concepts, algorithms, and practical applications, making it suitable for students and enthusiasts. Dive into the notes [here](https://inst.eecs.berkeley.edu/~cs70/su16/static/su16/extra_note/sinho_cs_70_notes.pdf).
+
+- **Mathematical Foundations For Data Analysis**: This comprehensive resource delves into the mathematical foundations required for data analysis. It covers a wide range of topics and provides insights into mathematical techniques used in the field. Whether you're a student or a professional in the data analysis domain, this resource is a valuable asset. Access the document [here](https://users.cs.utah.edu/~jeffp/M4D/M4D-v0.4.pdf).
 
 - **All of Statistics**: Ideal for rapid learning of probability and statistics, this book is particularly beneficial for graduate students and advanced undergraduates in disciplines like computer science, mathematics, and statistics. It provides a concise yet thorough overview of the essential concepts. [Read here](https://egrcc.github.io/docs/math/all-of-statistics.pdf).
 
@@ -66,20 +71,31 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 
 ### Statistical Programming
-- R Programming
-- Python for Statistics
-- SQL in Data Analysis
+
+- **An Introduction to R**: This guide is an excellent starting point for learning R. It covers the basics of R language, data handling, and statistical analysis, making it suitable for beginners and intermediate users. [Read here](https://cran.r-project.org/doc/manuals/R-intro.pdf).
+
+- **simpleR – Using R for Introductory Statistics**: This guide is a fantastic resource for beginners in both statistics and R programming. It simplifies the learning process by combining basic statistical concepts with hands-on R coding. [Read here](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf).
+
+- **An Introduction to Python for Absolute Beginners**: This resource is an ideal starting point for those new to Python. It provides a comprehensive introduction to the basics of Python programming, covering fundamental concepts in an easy-to-understand manner. [Read here](https://help.uis.cam.ac.uk/system/files/documents/python3-slides.pdf).
+
+- **Introduction to SQL**: This resource is a great place to start for those new to SQL. It covers essential SQL concepts and commands, providing a solid foundation for database querying and management. [Read here](https://www.stat.berkeley.edu/~spector/sql.pdf).
+
 
 ### Survey Statistics
-- Survey Design
-- Data Collection and Analysis
 
-### Data Analysis
-- Data Exploration Techniques
-- Advanced Statistical Modeling
+- **Survey Methods and Practices**: This resource provides a comprehensive overview of survey methodologies and practices. It's an invaluable asset for anyone involved in survey design and data collection. The document covers a wide range of topics and offers practical insights. [Read here](https://www150.statcan.gc.ca/n1/pub/12-587-x/12-587-x2003001-eng.pdf).
+
+- **Sampling and Experimental Design**: This comprehensive resource provides insights into the principles of sampling and experimental design. It covers essential concepts, methodologies, and practical applications, making it suitable for both beginners and those looking to deepen their knowledge. [Read here](https://sas.uwaterloo.ca/~jhchen/stat332/total.pdf).
+
+
+### Statistical Learning
+
+- **An Introduction to Statistical Learning**: This exceptional online resource offers a comprehensive introduction to statistical learning techniques and their practical application in both Python and R. It caters to learners at various levels, making it accessible to beginners and valuable for professionals. Explore the book and its related materials [here](https://www.statlearning.com).
+
+- **Statistics and Machine Learning in Python**: This comprehensive online resource covers a wide range of topics and provides practical examples to facilitate learning. Whether you're new to Python or seeking to advance your skills, this resource is a valuable asset. Explore it [here](https://duchesnay.github.io/pystatsml/).
+
 
 ### Applied Statistics
-- Finance and Economics Statistics
-- Health and Medical Statistics
-- Environmental and Social Statistics
+- **Introduction to Biostatistics**: This introductory resource offers a comprehensive overview of statistical concepts and their applications in the field of health and life sciences. [Read here](https://www.hsph.harvard.edu/wp-content/uploads/sites/565/2019/09/HST190_Lecture_1.pdf).
+
 
