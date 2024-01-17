@@ -7,7 +7,7 @@ Welcome to **StatResourcesHub**, a curated collection of some of the best statis
 In **StatResourcesHub**, you'll discover a wide range of resources covering various topics in statistics. From introductory materials to advanced theoretical concepts, practical applications, and cutting-edge research – we've gathered it all in one place. Our collection includes, but is not limited to:
 
 - Introductory Guides to Basic Statistical Concepts
-- Advanced Theoretical Treatises in Statistics
+- Advanced Theoretical Concepts in Statistics
 - Applied Statistics in Various Fields
 - Statistical Software Tutorials and Guides
 - Research Papers and Case Studies
