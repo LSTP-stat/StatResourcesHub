@@ -58,9 +58,12 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 ### Bayesian Statistics
 
+- **An Introduction to Bayesian Thinking**: This resource serves as a companion to the Statistics with R course. It's an excellent starting point for those new to Bayesian statistics and offers practical examples using R. The book lays a solid foundation for understanding Bayesian principles and their implementation in R. [Read here](https://statswithr.github.io/book/_main.pdf).
+
 ### Causal Inference
-- Introduction to Causal Inference
-- Advanced Techniques and Studies
+
+- **Causal Inference: What If**: Authored by Miguel Hernan and James Robins, this book is a comprehensive resource for understanding modern approaches to causal inference. It offers in-depth discussions and practical examples, making it a valuable asset for both students and researchers. [Read here](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf).
+
 
 ### Statistical Programming
 - R Programming
