@@ -35,3 +35,48 @@ Thank you for helping to enrich this resource hub!
 If you have any questions or suggestions, feel free to open an issue in the repository or contact me directly at learn.statistics@statharbor.com.
 
 Let's build a comprehensive and accessible statistical resource together!
+
+## Sections
+
+### General Statistics
+
+This section serves as the foundation of our repository, encompassing the core principles and methodologies of statistics. It is designed to be accessible for beginners, yet rich enough in content to serve as a refresher for more advanced statisticians. Here, you will find resources that cover a wide range of topics in general statistics, including:
+
+- **Statistical Theory**: Understand the basic theories that underpin statistical analyses.
+- **Descriptive Statistics**: Learn about techniques for summarizing and describing data.
+- **Inferential Statistics**: Explore how to make predictions and inferences from data samples.
+- **Probability Theory**: Delve into the fundamentals of probability and its applications in statistics.
+- **Data Collection and Sampling**: Discover methods for collecting and choosing representative samples.
+- **Hypothesis Testing and Confidence Intervals**: Learn about the formulation of hypotheses and the calculation of confidence intervals.
+
+Whether you're starting your journey in statistics or brushing up on key concepts, this section provides a comprehensive overview of the field.
+
+- **All of Statistics**: Ideal for rapid learning of probability and statistics, this book is particularly beneficial for graduate students and advanced undergraduates in disciplines like computer science, mathematics, and statistics. It provides a concise yet thorough overview of the essential concepts. [Read here](https://egrcc.github.io/docs/math/all-of-statistics.pdf).
+
+- **Modern Statistics with R**: An all-encompassing guide that integrates modern statistical methodologies with R programming. Ideal for those who wish to apply statistical theory using R. [Read here](https://modernstatisticswithr.com/_main.pdf).
+
+
+### Bayesian Statistics
+
+### Causal Inference
+- Introduction to Causal Inference
+- Advanced Techniques and Studies
+
+### Statistical Programming
+- R Programming
+- Python for Statistics
+- SQL in Data Analysis
+
+### Survey Statistics
+- Survey Design
+- Data Collection and Analysis
+
+### Data Analysis
+- Data Exploration Techniques
+- Advanced Statistical Modeling
+
+### Applied Statistics
+- Finance and Economics Statistics
+- Health and Medical Statistics
+- Environmental and Social Statistics
+
