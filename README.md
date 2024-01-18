@@ -156,6 +156,8 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **An Introduction to Statistical Learning**: This exceptional online resource offers a comprehensive introduction to statistical learning techniques and their practical application in both Python and R. It caters to learners at various levels, making it accessible to beginners and valuable for professionals. Explore the book and its related materials [here](https://www.statlearning.com).
 
+- **The Elements of Statistical Learning**: "The Elements of Statistical Learning" comprehensively covers various methodologies and their practical applications in data analysis, providing valuable insights into statistical learning techniques. [Read here](https://hastie.su.domains/Papers/ESLII.pdf).
+
 - **Statistics and Machine Learning in Python**: This comprehensive online resource covers a wide range of topics and provides practical examples to facilitate learning. Whether you're new to Python or seeking to advance your skills, this resource is a valuable asset. Explore it [here](https://duchesnay.github.io/pystatsml/).
 
 - **Statistical Modelling**: This resource covers various aspects of modeling, including techniques, methodologies, and applications. Enhance your understanding by accessing the lectures [here](https://www.chg.ox.ac.uk/~anjali/apts/statmod/statmod_lectures.pdf).
