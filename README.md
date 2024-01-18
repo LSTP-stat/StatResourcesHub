@@ -2,6 +2,25 @@
 
 Welcome to **StatResourcesHub**, a curated collection of some of the best statistical documents available on GitHub. This repository aims to serve as a comprehensive hub for students, educators, researchers, and professionals interested in the field of statistics.
 
+## Table of Contents
+1. [Welcome to StatResourcesHub](#statresourceshub)
+2. [What You'll Find Here](#what-youll-find-here)
+3. [How to Navigate](#how-to-navigate)
+4. [Contributions](#contributions)
+5. [Contact](#contact)
+6. [Sections](#sections)
+   - [Prerequisites for Understanding Statistics](#prerequisites-for-understanding-statistics)
+     - [Mathematical Foundations](#mathematical-foundations)
+     - [Probability Basics](#probability-basics)
+     - [Statistical Terminology](#statistical-terminology)
+   - [General Statistics](#general-statistics)
+   - [Bayesian Statistics](#bayesian-statistics)
+   - [Causal Inference](#causal-inference)
+   - [Statistical Programming](#statistical-programming)
+   - [Survey Statistics](#survey-statistics)
+   - [Statistical Learning](#statistical-learning)
+   - [Applied Statistics](#applied-statistics)
+
 ## What You'll Find Here
 
 In **StatResourcesHub**, you'll discover a wide range of resources covering various topics in statistics. From introductory materials to advanced theoretical concepts, practical applications, and cutting-edge research – we've gathered it all in one place. Our collection includes, but is not limited to:
