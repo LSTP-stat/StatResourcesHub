@@ -137,6 +137,9 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **STATS 361: Causal Inference**: Authored by Stefan Wager, this document provides an extensive overview of topics in causal inference, ranging from randomized controlled trials to advanced topics like policy learning and adaptive experiments. It serves as a valuable resource for students and researchers in the field of statistics. [Read here](https://web.stanford.edu/~swager/stats361.pdf).
 
+- **Introduction to Causal Inference from a Machine Learning Perspective**:This resource bridges the gap between causal inference and machine learning, offering a comprehensive guide for applying causal reasoning within data science. It covers a variety of methods like randomized trials and graphical models, emphasizing practical application with Python examples.[Read here](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf).
+
+  
 ### Statistical Programming
 
 - **An Introduction to R**: This guide is an excellent starting point for learning R. It covers the basics of R language, data handling, and statistical analysis, making it suitable for beginners and intermediate users. [Read here](https://cran.r-project.org/doc/manuals/R-intro.pdf).
