@@ -135,6 +135,8 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **Statistics and Causal Inference**: Authored by Kosuke Imai, this document offers an in-depth exploration of statistical methodologies in causal inference. It covers a range of topics including randomized experiments, regression and matching, and the concept of causal effects, providing valuable insights for researchers and students in statistics or related fields. [Read here](https://imai.fas.harvard.edu/talk/files/EITM12.pdf).
 
+- **STATS 361: Causal Inference**: Authored by Stefan Wager, this document provides an extensive overview of topics in causal inference, ranging from randomized controlled trials to advanced topics like policy learning and adaptive experiments. It serves as a valuable resource for students and researchers in the field of statistics. [Read here](https://web.stanford.edu/~swager/stats361.pdf).
+
 ### Statistical Programming
 
 - **An Introduction to R**: This guide is an excellent starting point for learning R. It covers the basics of R language, data handling, and statistical analysis, making it suitable for beginners and intermediate users. [Read here](https://cran.r-project.org/doc/manuals/R-intro.pdf).
