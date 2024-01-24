@@ -133,6 +133,7 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **Causal Inference: What If**: Authored by Miguel Hernan and James Robins, this book is a comprehensive resource for understanding modern approaches to causal inference. It offers in-depth discussions and practical examples, making it a valuable asset for both students and researchers. [Read here](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf).
 
+- **Statistics and Causal Inference**: Authored by Kosuke Imai, this document offers an in-depth exploration of statistical methodologies in causal inference. It covers a range of topics including randomized experiments, regression and matching, and the concept of causal effects, providing valuable insights for researchers and students in statistics or related fields. [Read here](https://imai.fas.harvard.edu/talk/files/EITM12.pdf).
 
 ### Statistical Programming
 
