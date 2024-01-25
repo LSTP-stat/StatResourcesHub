@@ -115,13 +115,15 @@ This section serves as the foundation of our repository, encompassing the core p
 
 Whether you're starting your journey in statistics or brushing up on key concepts, this section provides a comprehensive overview of the field.
 
-- **Probability and Statistics: The Science of Uncertainty**: This comprehensive resource provides insights into the world of probability and statistics. It covers a wide range of topics and applications, making it suitable for both beginners and those seeking advanced knowledge. Access the book [here](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf).
+- **Probability and Statistics: The Science of Uncertainty**: This comprehensive resource provides insights into the world of probability and statistics. It covers a wide range of topics and applications, making it suitable for both beginners and those seeking advanced knowledge. Access the book [Read here](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf).
 
-- **Discrete Mathematics and Probability Theory**: This resource offers a comprehensive overview of discrete mathematics and probability theory. It covers fundamental concepts, algorithms, and practical applications, making it suitable for students and enthusiasts. Dive into the notes [here](https://inst.eecs.berkeley.edu/~cs70/su16/static/su16/extra_note/sinho_cs_70_notes.pdf).
+- **Discrete Mathematics and Probability Theory**: This resource offers a comprehensive overview of discrete mathematics and probability theory. It covers fundamental concepts, algorithms, and practical applications, making it suitable for students and enthusiasts. Dive into the notes [Read here](https://inst.eecs.berkeley.edu/~cs70/su16/static/su16/extra_note/sinho_cs_70_notes.pdf).
 
-- **Mathematical Foundations For Data Analysis**: This comprehensive resource covers a wide range of topics and provides insights into mathematical techniques used in the field. Whether you're a student or a professional in the data analysis domain, this resource is a valuable asset. Access the document [here](https://users.cs.utah.edu/~jeffp/M4D/M4D-v0.4.pdf).
+- **Mathematical Foundations For Data Analysis**: This comprehensive resource covers a wide range of topics and provides insights into mathematical techniques used in the field. Whether you're a student or a professional in the data analysis domain, this resource is a valuable asset. Access the document [Read here](https://users.cs.utah.edu/~jeffp/M4D/M4D-v0.4.pdf).
 
 - **All of Statistics**: Ideal for rapid learning of probability and statistics, this book is particularly beneficial for graduate students and advanced undergraduates in disciplines like computer science, mathematics, and statistics. It provides a concise yet thorough overview of the essential concepts. [Read here](https://egrcc.github.io/docs/math/all-of-statistics.pdf).
+
+- **Introductory Statistics Explained with Exercises and Solutions**:This comprehensive and educational resource is suitable for students or professionals beginning their journey into the field of statistics. It also offers companion documents with exercises and solutions. [Read here](https://www.jbstatistics.com/text-resources/).
 
 - **Modern Statistics with R**: An all-encompassing guide that integrates modern statistical methodologies with R programming. Ideal for those who wish to apply statistical theory using R. [Read here](https://modernstatisticswithr.com/_main.pdf).
 
