@@ -151,6 +151,8 @@ Whether you're starting your journey in statistics or brushing up on key concept
 - **An Introduction to Python for Absolute Beginners**: This resource is an ideal starting point for those new to Python. It provides a comprehensive introduction to the basics of Python programming, covering fundamental concepts in an easy-to-understand manner. [Read here](https://help.uis.cam.ac.uk/system/files/documents/python3-slides.pdf).
 
 - **Introduction to SQL**: This resource is a great place to start for those new to SQL. It covers essential SQL concepts and commands, providing a solid foundation for database querying and management. [Read here](https://www.stat.berkeley.edu/~spector/sql.pdf).
+  
+- **Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence**. This version of the book includes a complete structure of the contents and an almost complete code-base using Julia 1.3. [Download here](https://dlib.hust.edu.vn/bitstream/HUST/18110/1/OER000000260.pdf).
 
 
 ### Survey Statistics
