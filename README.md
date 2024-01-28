@@ -152,7 +152,7 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **Introduction to SQL**: This resource is a great place to start for those new to SQL. It covers essential SQL concepts and commands, providing a solid foundation for database querying and management. [Read here](https://www.stat.berkeley.edu/~spector/sql.pdf).
   
-- **Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence**. This version of the book includes a complete structure of the contents and an almost complete code-base using Julia 1.3. [Download here](https://dlib.hust.edu.vn/bitstream/HUST/18110/1/OER000000260.pdf).
+- **Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence**. This resource is a comprehensive guide focused on utilizing the Julia (Julia 1.3) programming language for statistical analysis, data science, machine learning, and artificial intelligence applications. Julia is known for its high-performance capabilities, particularly in numerical and scientific computing, making it a popular choice for tasks that require extensive computational resources. [Download here](https://dlib.hust.edu.vn/bitstream/HUST/18110/1/OER000000260.pdf).
 
 
 ### Survey Statistics
