@@ -127,7 +127,7 @@ Whether you're starting your journey in statistics or brushing up on key concept
 
 - **Modern Statistics with R**: An all-encompassing guide that integrates modern statistical methodologies with R programming. Ideal for those who wish to apply statistical theory using R. [Read here](https://modernstatisticswithr.com/_main.pdf).
 
-- **Advanced Data Analysis from an Elementary Point of View** This is a wonderful book that concentrates on core statistical ideas while providing practical R code examples. It covers a range of important topics such as regression, causal inference, density estimation, and time series analysis. The book is ideal for those looking to deepen their understanding of advanced data analysis techniques with hands-on coding. [Read the book here](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf).
+- **Advanced Data Analysis from an Elementary Point of View:** This is a wonderful book that concentrates on core statistical ideas while providing practical R code examples. It covers a range of important topics such as regression, causal inference, density estimation, and time series analysis. The book is ideal for those looking to deepen their understanding of advanced data analysis techniques with hands-on coding. [Read the book here](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf).
 
 ### Bayesian Statistics
 
